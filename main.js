@@ -3,15 +3,15 @@ const shareBtn = document.getElementById("shareBtn");
 const shareLinks = document.getElementById("shareLinks");
 
 shareBtn.onclick = () => {
-    window.open("https://s.shopee.co.id/7Ktyzdm6TV", "_blank")
+    window.open("https://asiaso.org/4/b6024d1a5f6e9c5bde228001f8958af9", "_blank")
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
-    window.open("https://whatsapp.com/channel/0029VbCKzuEFXUugctLPPy1D");
+    window.open("https://facebook.com/groups/2086697448580065/");
 }
 
 function openFacebookPage() {
-    window.open("https://www.facebook.com/share/g/1CXtzKgDbU/");
+    window.open("https://facebook.com/groups/2086697448580065/");
 }
 const video = document.getElementById("video");
 const overlay = document.getElementById("videoOverlay");
@@ -32,12 +32,8 @@ overlay.addEventListener("click", () => {
     overlay.classList.remove("show");
 
     // Aksi setelah klik
-    window.open("https://s.shopee.co.id/7Ktyzdm6TV", "_blank");
+    window.open("https://s.shopee.co.id/6VOTfAWeht", "_blank");
 });
-
-
-
-
 
 
 
